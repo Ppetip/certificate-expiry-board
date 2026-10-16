@@ -1,0 +1,10 @@
+{
+  "now": "2026-10-16T12:00:00Z",
+  "certificates": [
+    {
+      "name": "demo.internal",
+      "not_before": "2026-01-01T00:00:00Z",
+      "not_after": "2026-11-01T12:00:00Z"
+    }
+  ]
+}
